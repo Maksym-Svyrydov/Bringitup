@@ -1,0 +1,15 @@
+@font-face {
+  font-family: Mark;
+  src: url("Mark-Heavy.cc56474b.woff2") format("woff2"), url("Mark-Heavy.aaa3e910.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Mark;
+  src: url("Mark-Regular.d1b6f682.woff2") format("woff2"), url("Mark-Regular.5a46dfb0.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*# sourceMappingURL=index.c44c7fc4.css.map */
