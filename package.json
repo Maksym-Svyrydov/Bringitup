@@ -1,0 +1,29 @@
+{
+  "name": "parcel-project-template",
+  "homepage": "https://Maksym-Svyrydov.github.io/Bringitup/",
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /Bringitup/"
+  },
+  "dependencies": {
+    "parcel": "^2.10.2",
+    "jquery": "^3.7.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.0",
+    "parcel": "^2.6.0",
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "posthtml-include": "^1.7.4",
+    "@babel/core": "^7.22.5",
+    "@babel/preset-env": "^7.22.5",
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^9.1.2",
+    "browser-sync": "^2.29.3",
+    "core-js": "^3.31.0",
+    "webpack": "^5.86.0",
+    "webpack-stream": "^7.0.0"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead"
+}
